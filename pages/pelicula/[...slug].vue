@@ -132,7 +132,7 @@
 											:data-item-description="page.descripcion.informacion"
 											:data-item-url="`/pelicula/` + page._id"
 											data-item-custom1-name="Formato"
-											data-item-custom1-options="Digital|DVD[+5]|Blue Ray[+10]|Delux[+15]"
+											data-item-custom1-options="Digital|DVD[+5]|Blue Ray[+10]|Delux[+15]" 
 											>
 											<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
 												viewBox="0 0 24 24">
